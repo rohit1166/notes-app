@@ -1,0 +1,47 @@
+.heading{
+    text-align: center;
+}
+
+.form{
+    background-color: white;
+    border: 1px solid red;
+    width: 450px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 20px auto;
+    border-radius: 10px;
+
+}
+
+.title{
+    height: 40px;
+    width: 90%;
+    margin: 20px;
+    font-size: 18px;
+}
+
+.category{
+    height: 40px;
+    width: 90%;
+    margin: 20px;
+    font-size: 18px;
+}
+
+.content{
+    height: 50px;
+    width: 90%;
+    margin: 20px;
+    font-size: 18px;
+}
+
+.save-btn{
+    font-size: 20px;
+    padding: 5px 20px;
+    border-radius: 20px;
+    margin: 20px;
+    background-color: rgba(0, 0, 0, 0.852);
+    color: white;
+    cursor: pointer;
+}

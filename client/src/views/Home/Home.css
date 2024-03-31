@@ -1,0 +1,27 @@
+.text-center{
+    text-align: center;
+}
+
+.card-container{
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 200px;
+    margin: 0 auto;
+}
+
+.app-header{
+    text-align: center;
+}
+
+.add-note-btn{
+    padding: 5px 20px;
+    font-size: 15px;
+    border-radius: 20px;
+    border: none;
+    color: white;
+    background-color: black;
+    position: absolute;
+    top: 50px;
+    right: 30px;
+    cursor: pointer;
+}
